@@ -39,9 +39,7 @@ The current notebook has a lot of exploratory code.  The final notebook will inc
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook_mod20](https://github.com/rickhiggs/Capstone_Mod20/blob/main/CapstoneExplore02.ipynb)
 
 
 ##### Contact and Further Information
