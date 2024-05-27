@@ -43,8 +43,12 @@ The current notebook has a lot of exploratory code.  The final notebook will inc
 
 [![LogReg.png](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images/LogReg.png)](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images)
 
+
+
 [![LogRegWithThresh.png](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images/LogRegWithThresh.png)](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images)
-- 
+
+
+
 ##### Contact and Further Information
 **Richard Higgs**
 rickhiggs@yahoo.com
