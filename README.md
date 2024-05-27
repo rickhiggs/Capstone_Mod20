@@ -41,10 +41,9 @@ The current notebook has a lot of exploratory code.  The final notebook will inc
 
 [Link to notebook_mod20](https://github.com/rickhiggs/Capstone_Mod20/blob/main/CapstoneExplore02.ipynb)
 
-[![Model-Scores.png](https://i.postimg.cc/tJKbRcwv/Model-Scores.png)](https://postimg.cc/30FVntK2)
-
 [![LogReg.png](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images/LogReg.png)](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images)
-- [Confusion Matrix for Logistic Regression with 0.25 Threashold](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images/LogRegWithThresh.png)
+
+[![LogRegWithThresh.png](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images/LogRegWithThresh.png)](https://github.com/rickhiggs/Capstone_Mod20/blob/main/images)
 - 
 ##### Contact and Further Information
 **Richard Higgs**
